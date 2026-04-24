@@ -1,4 +1,4 @@
-# Campus Network Design-Staic And Default Routing
+# Campus Network Design-Static And Default Routing
 This project demonstrates a campus network design for a Computer Science department using Cisco Packet Tracer. The network consists of multiple routers connecting different LANs including student labs and an administrative office. The routing is implemented using a combination of **static routing** and **default routing** to enable inter-network communication.
 
 # Network Topology
